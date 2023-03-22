@@ -1,4 +1,4 @@
-# NeteaseCloud-EasyPlayer
+# NeteaseCloud_EasyPlayer
 
 This is a easy complete imitation NetEase cloud player project, including front-end view and back-end interface
 It is mainly used for the project when I am looking for a front-end development internship. 
